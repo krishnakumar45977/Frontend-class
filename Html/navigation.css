@@ -1,0 +1,31 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    background-color: #f2f2f2;
+    align-items: center;
+}
+#sl{margin:20px;}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+}
+input{
+    height: 30px;
+    width: 400px;
+    margin: 15px;
+    align-items: right;
+}
+#login{
+    display: flex;
+    margin: 20px;
+    width: 400px;
+    align-items: flex-end;
+    text-align: right;
+    justify-content: flex-end;
+}

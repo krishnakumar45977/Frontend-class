@@ -1,0 +1,86 @@
+<head> = is used at starting
+ <body> = is used for content
+<h1> = is used for headings
+<p> is used for paragraph
+<mark> is used for highlight the given text
+<button> tag is used for show the given word as a button for look
+<a> is also used for content
+<br/> is used for break the line
+<a href = "">--- is used for make our text into link
+<img src = is used for import a image
+<input> is used for create box used for enter text
+<label> is used for (Name: "krishna") like this
+<input placeholder =>= is used for enter data in a box for given question like name, phone number
+
+1.LIST
+<ul>=unordered list is used for bulletings
+<li>=list is used for the bulletin points
+<ol>=ordered list is used for number bulletings
+
+2.Tables
+<table>= is used for enter data in a table form
+<thead>= table head is used for enter the topics for the data
+<tr>= table row is used for enter data in row formate
+<tbody> = table body is used for enter data at the table
+<td> = table data is used for enter data by order
+
+3.Nav
+<title> is used for set topic for the web page within the head
+<nav> is also used to enter data like body 
+<search> is used for create search bar
+<select> is used for the dropdown method
+<option value>is used for show option like dropdown values
+<noscript> = is used for security purpose of the webpage
+<textarea> it is used for enter text at the output page in text box 
+ctrl+/ = is used to make the given data us command
+<div> is used to form divisions below the above line
+
+4.Home
+<link rel => is used to link an another program or file
+id = is used for the topics
+class= is used for the divisions
+
+5.Home.css
+color picker website is use to pick color for styling copy paste the ash value or rgb value using rgb and the values
+background-repeat = is used to don't repeat the image if not fit for the screen
+border: = is used for box the given text
+margin = is used for the space alignment depending upon the direction
+padding = is used for space alignment inside the box
+font-style = is used for styling
+width, height = is used for the image or text alignment
+display:= is used for viewing the image
+block-direction= is used for whether it is aligned in row or coloumn
+
+6.Navigaation.html
+
+
+7. Navigation.css
+list-style-type: none = is used for  removing numbering or bulleting
+
+8. Tables.css
+
+9. Zindex
+z-index = is used for positioning the text or image
+
+
+10.Bootstrap.html
+using bootstrap.com - website for programs
+layout- is used for the login page form design and alignment
+ctrl+/ = is used for command selection
+
+11. Float.html
+text-shadow = is used for text shadow design
+
+12.Java=sample.js
+let= is used for type
+const= is also a type
+var = is used as variable type
+we can't edit the values in const variable once its assigned
+""= is used for strings
+console.log = is used as print statement at console in browser after inspect
+a===b is used to whether it is equal or not
+
+
+13.Funtion.js
+function_name() = is used for call a Funtion
+after code written.
